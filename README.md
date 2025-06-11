@@ -69,4 +69,4 @@ curl "http://localhost:8000/api/v1/vault/decrypt/{item_id}"
 
 ---
 
-*Built with FastAPI, SQLAlchemy, and OpenAI* 
+*Built with FastAPI, SQLAlchemy, and OpenAI*
